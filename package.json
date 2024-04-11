@@ -1,0 +1,20 @@
+{
+    "name": "SVG-logo",
+    "version": "1.0.0",
+    "description": "A command line SVG generator. Input the 3 letters you plan to use today, pick the color, and pick the shape and it will generate a cleanly styled html document for viewing your logo.",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js",
+      "test": "jest"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+      "inquirer": "^9.2.17"
+    },
+    "devDependencies": {
+      "jest": "^28.1.3"
+    }
+  }
+  
